@@ -1,0 +1,850 @@
+{
+  "horizontal": [
+    {
+      "category": "MV",
+      "id": "0Bl_IYEHWaU_seg003",
+      "title": "MV example 1",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/0Bl_IYEHWaU_seg003/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "7oUvRHA5Vec_seg010",
+      "title": "MV example 2",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/7oUvRHA5Vec_seg010/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "PKcGR3hexig_seg013",
+      "title": "MV example 3",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/PKcGR3hexig_seg013/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/PKcGR3hexig_seg013/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/PKcGR3hexig_seg013/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/PKcGR3hexig_seg013/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/PKcGR3hexig_seg013/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/PKcGR3hexig_seg013/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/PKcGR3hexig_seg013/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/PKcGR3hexig_seg013/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "Q6-tYpWp0Ck_seg014",
+      "title": "MV example 4",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/Q6-tYpWp0Ck_seg014/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "mPNTfZh9Atc_seg007",
+      "title": "MV example 5",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/mPNTfZh9Atc_seg007/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "scFyrj20-yU_seg004",
+      "title": "MV example 6",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/scFyrj20-yU_seg004/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/scFyrj20-yU_seg004/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/scFyrj20-yU_seg004/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/scFyrj20-yU_seg004/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/scFyrj20-yU_seg004/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/scFyrj20-yU_seg004/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/scFyrj20-yU_seg004/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/scFyrj20-yU_seg004/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "tcYodQoapMg_seg014",
+      "title": "MV example 7",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/tcYodQoapMg_seg014/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/tcYodQoapMg_seg014/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/tcYodQoapMg_seg014/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/tcYodQoapMg_seg014/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/tcYodQoapMg_seg014/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/tcYodQoapMg_seg014/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/tcYodQoapMg_seg014/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/tcYodQoapMg_seg014/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "MV",
+      "id": "wGAmgmZg-48_seg016",
+      "title": "MV example 8",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/wGAmgmZg-48_seg016/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1cC4y1M7BD_seg005",
+      "title": "BV example 1",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1cC4y1M7BD_seg005/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1fA41197Cf_seg006",
+      "title": "BV example 2",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1fA41197Cf_seg006/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1hF411S7eq_seg011",
+      "title": "BV example 3",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1hF411S7eq_seg011/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1jz421B74p_seg002",
+      "title": "BV example 4",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1jz421B74p_seg002/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1jz421B74p_seg002/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1jz421B74p_seg002/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1jz421B74p_seg002/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1jz421B74p_seg002/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1jz421B74p_seg002/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1jz421B74p_seg002/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1jz421B74p_seg002/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1py4y177XG_seg007",
+      "title": "BV example 5",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1py4y177XG_seg007/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1py4y177XG_seg007/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1py4y177XG_seg007/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1py4y177XG_seg007/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1py4y177XG_seg007/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1py4y177XG_seg007/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1py4y177XG_seg007/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1py4y177XG_seg007/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1rP4y1E7mv_seg002",
+      "title": "BV example 6",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1rP4y1E7mv_seg002/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1u14y1r7UP_seg013",
+      "title": "BV example 7",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1u14y1r7UP_seg013/vidmuse.mp4"
+        }
+      ]
+    },
+    {
+      "category": "BV",
+      "id": "BV1vs411t7aV_seg004",
+      "title": "BV example 8",
+      "methods": [
+        {
+          "label": "Ground Truth",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/GT.mp4"
+        },
+        {
+          "label": "Anchor-V2M",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/8+8.mp4",
+          "featured": true
+        },
+        {
+          "label": "Diff-V2M",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/diff-v2m.mp4"
+        },
+        {
+          "label": "CMT",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/CMT.mp4"
+        },
+        {
+          "label": "GVMGen",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/gvmgen.mp4"
+        },
+        {
+          "label": "MuMu-LLaMA",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/mumullama.mp4"
+        },
+        {
+          "label": "Video2Music",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/video2music.mp4"
+        },
+        {
+          "label": "VidMuse",
+          "src": "media/horizontal/BV1vs411t7aV_seg004/vidmuse.mp4"
+        }
+      ]
+    }
+  ],
+  "vertical": [
+    {
+      "label": "Alignment",
+      "description": "Listen for differences in the density of musical events.",
+      "examples": [
+        {
+          "id": "BV1Jm4y1u75V_seg001",
+          "title": "Alignment example 1",
+          "high": "media/vertical/alignment/BV1Jm4y1u75V_seg001/high.mp4",
+          "low": "media/vertical/alignment/BV1Jm4y1u75V_seg001/low.mp4"
+        },
+        {
+          "id": "BV1qL411B7P1_seg000",
+          "title": "Alignment example 2",
+          "high": "media/vertical/alignment/BV1qL411B7P1_seg000/high.mp4",
+          "low": "media/vertical/alignment/BV1qL411B7P1_seg000/low.mp4"
+        },
+        {
+          "id": "BV1ZC4MzuEJ1_seg001",
+          "title": "Alignment example 3",
+          "high": "media/vertical/alignment/BV1ZC4MzuEJ1_seg001/high.mp4",
+          "low": "media/vertical/alignment/BV1ZC4MzuEJ1_seg001/low.mp4"
+        },
+        {
+          "id": "BV1hF411S7eq_seg006",
+          "title": "Alignment example 4",
+          "high": "media/vertical/alignment/BV1hF411S7eq_seg006/high.mp4",
+          "low": "media/vertical/alignment/BV1hF411S7eq_seg006/low.mp4"
+        },
+        {
+          "id": "BV1cC4y1M7BD_seg003",
+          "title": "Alignment example 5",
+          "high": "media/vertical/alignment/BV1cC4y1M7BD_seg003/high.mp4",
+          "low": "media/vertical/alignment/BV1cC4y1M7BD_seg003/low.mp4"
+        },
+        {
+          "id": "BV1Zq4y1U723_seg000",
+          "title": "Alignment example 6",
+          "high": "media/vertical/alignment/BV1Zq4y1U723_seg000/high.mp4",
+          "low": "media/vertical/alignment/BV1Zq4y1U723_seg000/low.mp4"
+        },
+        {
+          "id": "BV1bx411b73L_seg001",
+          "title": "Alignment example 7",
+          "high": "media/vertical/alignment/BV1bx411b73L_seg001/high.mp4",
+          "low": "media/vertical/alignment/BV1bx411b73L_seg001/low.mp4"
+        },
+        {
+          "id": "BV1344y1J74E_seg009",
+          "title": "Alignment example 8",
+          "high": "media/vertical/alignment/BV1344y1J74E_seg009/high.mp4",
+          "low": "media/vertical/alignment/BV1344y1J74E_seg009/low.mp4"
+        },
+        {
+          "id": "BV18n4y1f7Nb_seg000",
+          "title": "Alignment example 9",
+          "high": "media/vertical/alignment/BV18n4y1f7Nb_seg000/high.mp4",
+          "low": "media/vertical/alignment/BV18n4y1f7Nb_seg000/low.mp4"
+        },
+        {
+          "id": "BV1bQ4y1Y7MS_seg004",
+          "title": "Alignment example 2",
+          "high": "media/vertical/alignment/BV1bQ4y1Y7MS_seg004/high.mp4",
+          "low": "media/vertical/alignment/BV1bQ4y1Y7MS_seg004/low.mp4"
+        },
+        {
+          "id": "BV1DW411k7Li_p1_seg001",
+          "title": "Alignment example 10",
+          "high": "media/vertical/alignment/BV1DW411k7Li_p1_seg001/high.mp4",
+          "low": "media/vertical/alignment/BV1DW411k7Li_p1_seg001/low.mp4"
+        },
+        {
+          "id": "BV1dK4y1B7Vb_seg003",
+          "title": "Alignment example 12",
+          "high": "media/vertical/alignment/BV1dK4y1B7Vb_seg003/high.mp4",
+          "low": "media/vertical/alignment/BV1dK4y1B7Vb_seg003/low.mp4"
+        },
+        {
+          "id": "BV15VxxenEyB_seg001",
+          "title": "Alignment example 13",
+          "high": "media/vertical/alignment/BV15VxxenEyB_seg001/high.mp4",
+          "low": "media/vertical/alignment/BV15VxxenEyB_seg001/low.mp4"
+        },
+        {
+          "id": "BV1he411M7Bh_seg005",
+          "title": "Alignment example 14",
+          "high": "media/vertical/alignment/BV1he411M7Bh_seg005/high.mp4",
+          "low": "media/vertical/alignment/BV1he411M7Bh_seg005/low.mp4"
+        },
+        {
+          "id": "BV1Db411d7co_seg002",
+          "title": "Alignment example 15",
+          "high": "media/vertical/alignment/BV1Db411d7co_seg002/high.mp4",
+          "low": "media/vertical/alignment/BV1Db411d7co_seg002/low.mp4"
+        },
+        {
+          "id": "BV1ha411K7Ft_seg002",
+          "title": "Alignment example 16",
+          "high": "media/vertical/alignment/BV1ha411K7Ft_seg002/high.mp4",
+          "low": "media/vertical/alignment/BV1ha411K7Ft_seg002/low.mp4"
+        }
+      ]
+    },
+    {
+      "label": "Dominance",
+      "description": "Listen for differences in how strongly the music asserts its presence.",
+      "examples": [
+        {
+          "id": "BV1vs411t7aV_seg001",
+          "title": "Dominance example 1",
+          "high": "media/vertical/dominance/BV1vs411t7aV_seg001/high.mp4",
+          "low": "media/vertical/dominance/BV1vs411t7aV_seg001/low.mp4"
+        },
+        {
+          "id": "BV1M7411e71m_seg004",
+          "title": "Dominance example 2",
+          "high": "media/vertical/dominance/BV1M7411e71m_seg004/high.mp4",
+          "low": "media/vertical/dominance/BV1M7411e71m_seg004/low.mp4"
+        },
+        {
+          "id": "BV1L44y1272M_seg001",
+          "title": "Dominance example 3",
+          "high": "media/vertical/dominance/BV1L44y1272M_seg001/high.mp4",
+          "low": "media/vertical/dominance/BV1L44y1272M_seg001/low.mp4"
+        },
+        {
+          "id": "IXTg7owzmYo_seg002",
+          "title": "Dominance example 4",
+          "high": "media/vertical/dominance/IXTg7owzmYo_seg002/high.mp4",
+          "low": "media/vertical/dominance/IXTg7owzmYo_seg002/low.mp4"
+        },
+        {
+          "id": "C5i-UnuUKUI_seg006",
+          "title": "Dominance example 5",
+          "high": "media/vertical/dominance/C5i-UnuUKUI_seg006/high.mp4",
+          "low": "media/vertical/dominance/C5i-UnuUKUI_seg006/low.mp4"
+        },
+        {
+          "id": "BV1t14y1B7Z3_seg005",
+          "title": "Dominance example 6",
+          "high": "media/vertical/dominance/BV1t14y1B7Z3_seg005/high.mp4",
+          "low": "media/vertical/dominance/BV1t14y1B7Z3_seg005/low.mp4"
+        },
+        {
+          "id": "BV1hV411n7rG_seg004",
+          "title": "Dominance example 7",
+          "high": "media/vertical/dominance/BV1hV411n7rG_seg004/high.mp4",
+          "low": "media/vertical/dominance/BV1hV411n7rG_seg004/low.mp4"
+        },
+        {
+          "id": "_DKiPkqIlBI_seg001 ",
+          "title": "Dominance example 8",
+          "high": "media/vertical/dominance/_DKiPkqIlBI_seg001/high.mp4",
+          "low": "media/vertical/dominance/_DKiPkqIlBI_seg001/low.mp4"
+        },
+        {
+          "id": "BV1Re4y1n7PR_seg002",
+          "title": "Dominance example 9",
+          "high": "media/vertical/dominance/BV1Re4y1n7PR_seg002/high.mp4",
+          "low": "media/vertical/dominance/BV1Re4y1n7PR_seg002/low.mp4"
+        },
+        {
+          "id": "BV1Uj411k766_seg001",
+          "title": "Dominance example 10",
+          "high": "media/vertical/dominance/BV1Uj411k766_seg001/high.mp4",
+          "low": "media/vertical/dominance/BV1Uj411k766_seg001/low.mp4"
+        },
+        {
+          "id": "BV1u14y1r7UP_seg002",
+          "title": "Dominance example 11",
+          "high": "media/vertical/dominance/BV1u14y1r7UP_seg002/high.mp4",
+          "low": "media/vertical/dominance/BV1u14y1r7UP_seg002/low.mp4"
+        },
+        {
+          "id": "BV1bx411b73L_seg001",
+          "title": "Dominance example 12",
+          "high": "media/vertical/dominance/BV1bx411b73L_seg001/high.mp4",
+          "low": "media/vertical/dominance/BV1bx411b73L_seg001/low.mp4"
+        },
+        {
+          "id": "BV15VxxenEyB_seg001",
+          "title": "Dominance example 13",
+          "high": "media/vertical/dominance/BV15VxxenEyB_seg001/high.mp4",
+          "low": "media/vertical/dominance/BV15VxxenEyB_seg001/low.mp4"
+        },
+        {
+          "id": "ENKFTmJxBaY_seg004",
+          "title": "Dominance example 14",
+          "high": "media/vertical/dominance/ENKFTmJxBaY_seg004/high.mp4",
+          "low": "media/vertical/dominance/ENKFTmJxBaY_seg004/low.mp4"
+        },
+        {
+          "id": "BV1he411M7Bh_seg006",
+          "title": "Dominance example 15",
+          "high": "media/vertical/dominance/BV1he411M7Bh_seg006/high.mp4",
+          "low": "media/vertical/dominance/BV1he411M7Bh_seg006/low.mp4"
+        },
+        {
+          "id": "BV15DsMeMEXM_seg002",
+          "title": "Dominance example 16",
+          "high": "media/vertical/dominance/BV15DsMeMEXM_seg002/high.mp4",
+          "low": "media/vertical/dominance/BV15DsMeMEXM_seg002/low.mp4"
+        }
+      ]
+    }
+  ]
+}
